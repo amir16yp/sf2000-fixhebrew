@@ -1,6 +1,10 @@
 # SF2000 FixHebrew
 
 This repository provides a fix for Hebrew translation issues with the Datafrog SF2000 gaming console. The fix addresses the problem of reversed strings due to the lack of Right-to-Left (RTL) language support on the device.
+
+## Preview
+[preview video](https://youtu.be/ywXL_uPuQjU)
+
 ## Usage
 
 To apply the fix: 
